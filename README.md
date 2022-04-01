@@ -9,5 +9,5 @@ I make embeddable snippets and widgets for your websites. They're all fully open
 <details>
 <summary>Here's list of all my embeds</summary>
 <br>
-* SiteStats.js
+• SiteStats.js
 </details>
