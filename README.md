@@ -6,8 +6,4 @@ I make embeddable snippets and widgets for your websites. They're all fully open
 
 ### Embed list
 
-<details>
-<summary>Here's list of all my embeds</summary>
-<br>
-• SiteStats.js
-</details>
+[SiteStats](https:)
